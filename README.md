@@ -1,2 +1,2 @@
 # CS-118
-Work for UCLA CS 118 - Spring 2020
+Work for UCLA CS 118 "Computer Network Fundamentals" - Spring 2020
